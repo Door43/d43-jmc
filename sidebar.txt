@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jmc:home|Door43 (jmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jmc|d43-jmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jmc/archive/master.zip|d43-jmc.zip]]
+
+**Recent Changes**
+{{changes>ns = jmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jmc|Ethnologue data]]
+
